@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CargarProducto>
+  <Producto>
+    <Frutas>Uva</Frutas>
+    <idGeneral>1</idGeneral>
+  </Producto>
+  <Producto>
+    <Frutas>Fresa</Frutas>
+    <idGeneral>1</idGeneral>
+  </Producto>
+  <Producto>
+    <Verduras>Zanahoria</Verduras>
+    <idGeneral>2</idGeneral>
+  </Producto>
+  <Producto>
+    <Verduras>Pepino</Verduras>
+    <idGeneral>2</idGeneral>
+  </Producto>
+  <Producto>
+    <Granos>Alberja</Granos>
+    <idGeneral>3</idGeneral>
+  </Producto>
+  <Producto>
+    <Granos>Lenteja</Granos>
+    <idGeneral>3</idGeneral>
+  </Producto>
+</CargarProducto>

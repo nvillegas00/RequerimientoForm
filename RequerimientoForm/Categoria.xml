@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<CargarCategoria>
+  <Categoria>
+    <nombreCategoria>Frutas</nombreCategoria>
+    <idGeneral>1</idGeneral>
+  </Categoria>
+ <Categoria>
+    <nombreCategoria>Verduras</nombreCategoria>
+    <idGeneral>2</idGeneral>
+  </Categoria>
+ <Categoria>
+    <nombreCategoria>Granos</nombreCategoria>
+    <idGeneral>3</idGeneral>
+  </Categoria>
+</CargarCategoria>
